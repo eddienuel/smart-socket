@@ -1,0 +1,61 @@
+[
+	{
+		"userId": "amzn1.ask.account.AGFBPRDQLGPBFZHEBN2NI7SMJZQM6MZELXJZCCQPEWHU4CIJSDSZEJUZBEKJ2TITTEFYEDOBELPDRSSIEY32YKVQ5VW6FRHFO7VFHQMLKKONXWKIVAS6UQATT4KF7KUH7R5B6LGS6XEJ4QIQWDDU2I5J46X2UYWKO4GYQUS5SZTRNVHOLEDBLNS2BXAID6R65MHZFPSRXDIO62Q",
+		"data": {
+			"DEVICE_NAME_MAP": [
+				[
+					"3",
+					"blender"
+				],
+				[
+					null,
+					"look fridge"
+				],
+				[
+					"32",
+					"said fridge"
+				],
+				[
+					"20",
+					"man"
+				],
+				[
+					"123",
+					null
+				],
+				[
+					"124",
+					null
+				],
+				[
+					"1",
+					"fridge"
+				],
+				[
+					"4",
+					"lamp"
+				],
+				[
+					null,
+					"sense"
+				]
+			],
+			"Socket1": "off",
+			"Socket0": "on",
+			"Socket3": "off",
+			"Socket4": "on",
+			"Socket2": "off",
+			"Socket21": "on",
+			"Dimmer": "100",
+			"Socket9": "on"
+		},
+		"userData": {
+			"data": {},
+			"metaData": {
+				"createdAt": "2018-02-11T21:05:23.281Z",
+				"lastUsedAt": "2018-02-25T06:47:40.274Z",
+				"sessionsCount": 206
+			}
+		}
+	}
+]
